@@ -26,7 +26,7 @@ Requests in Microsoft Power Platform consist of various actions which a user mak
 
 - **Connectors** – all API requests to connectors from Power Apps or Power Automate
 
-- **Microsoft Power Automate** – all Power Automate step actions
+- **Microsoft Power Automate** – API values are counted against Connectors
 
 - **Common Data Service** – all CRUD operations, as well as special operations like "share" or "assign". These can be from any client or application and using any endpoint SOAP or REST. These include but are not limited to plug-ins, async workflows, and custom controls making the above mentioned operations.
 
